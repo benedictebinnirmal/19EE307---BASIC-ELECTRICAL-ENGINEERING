@@ -16,13 +16,15 @@ To study the load characterstics of DC Shunt Generator. Draw the internal charac
 
 
 # Circuit Diagram in software
+![WhatsApp Image 2025-11-23 at 19 49 12_9f2dfcd3](https://github.com/user-attachments/assets/85c7968c-8959-4693-a786-f525333df3ea)
 
 
 
 # Output Graph / Tabulation
-
-
-# Sample images
+![WhatsApp Image 2025-11-23 at 19 50 17_fe51e8b8](https://github.com/user-attachments/assets/bae9bb95-0018-4887-9acc-8c35e4928a71)
+![WhatsApp Image 2025-11-23 at 19 57 52_4282febc](https://github.com/user-attachments/assets/10f19791-c94a-46cf-bf95-d3f631b71905)
 
 
 # Result
+![WhatsApp Image 2025-11-23 at 19 57 52_4282febc](https://github.com/user-attachments/assets/48120be5-2cb0-43e7-bf60-7d275c9077cb)
+

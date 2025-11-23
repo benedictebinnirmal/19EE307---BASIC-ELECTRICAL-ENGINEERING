@@ -11,12 +11,11 @@
 https://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp5/index.html
 
 ## Circuit Diagram
+![WhatsApp Image 2025-11-23 at 19 18 57_5243adcb](https://github.com/user-attachments/assets/ad5ffee8-9aad-4fdd-a248-30100531a539)
 
 
 ## Tabulation / Graph 
-
-
-## Sample images 
-
+![WhatsApp Image 2025-11-23 at 19 19 30_52c3a0bf](https://github.com/user-attachments/assets/6f48d589-534b-4c2d-9ea4-8b0d489cee8a)
 
 ## Result
+![WhatsApp Image 2025-11-23 at 19 21 48_ce0bd2c5](https://github.com/user-attachments/assets/3ac4eb67-367d-46a1-858c-582529fda3c4)

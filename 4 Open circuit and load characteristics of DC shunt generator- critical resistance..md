@@ -26,5 +26,6 @@ To study the load characterstics of DC Shunt Generator. Draw the internal charac
 
 
 # Result
-![WhatsApp Image 2025-11-23 at 19 57 52_4282febc](https://github.com/user-attachments/assets/48120be5-2cb0-43e7-bf60-7d275c9077cb)
+![WhatsApp Image 2025-11-23 at 19 58 48_03f36622](https://github.com/user-attachments/assets/07b4e391-8b90-4e65-8949-98510a14975f)
+
 

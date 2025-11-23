@@ -1,4 +1,4 @@
-## Exp. No. 3
+g3er## Exp. No. 3
 **Date:**  
 
 ## LOAD TEST ON SINGLE-PHASE TRANSFORMER
@@ -18,10 +18,11 @@
 https://ems-iitr.vlabs.ac.in/exp/circuit-parameters-oc-test/index.html 
 
 # Tabulation /Graph
-
-
-# Sample images 
+![WhatsApp Image 2025-11-23 at 19 40 14_825139ec](https://github.com/user-attachments/assets/760dac81-a6c5-468b-8dd8-08a72552c150)
+![WhatsApp Image 2025-11-23 at 19 41 34_34b3b777](https://github.com/user-attachments/assets/cafd8586-652f-4e75-8d1a-03317feaf092)
 
 
 # Result
+![WhatsApp Image 2025-11-23 at 19 41 16_68544c0d](https://github.com/user-attachments/assets/26d641ef-2a3e-4267-a88e-64f9fe16cc31)
+
 

@@ -133,13 +133,10 @@ Insulation resistance: It is the largest cause of errors and failure of RTD. The
 Self heating: The very small cross-sectional areas in the sensing elements will tend to heat when electrical current is applied. Most RTDs are specified to be operated with a current of 1 milliampere or less.
 
 # Circuit Diagram in software
-
+<img width="933" height="794" alt="image" src="https://github.com/user-attachments/assets/7d965e1b-61c5-4e93-b866-a9de7e0a2326" />
 
 
 # Output Graph / Tabulation
-
-
-# Sample images
-
+<img width="1006" height="691" alt="image" src="https://github.com/user-attachments/assets/cc636be3-e297-4929-adb7-80f32e4df17d" />
 
 # Result

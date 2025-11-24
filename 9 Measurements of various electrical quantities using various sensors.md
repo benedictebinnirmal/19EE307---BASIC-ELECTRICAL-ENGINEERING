@@ -138,5 +138,10 @@ Self heating: The very small cross-sectional areas in the sensing elements will 
 
 # Output Graph / Tabulation
 <img width="1006" height="691" alt="image" src="https://github.com/user-attachments/assets/cc636be3-e297-4929-adb7-80f32e4df17d" />
+![WhatsApp Image 2025-11-24 at 14 48 57_59961be8](https://github.com/user-attachments/assets/e97701c2-27a0-430c-bff0-d07f6987d4f9)
+![WhatsApp Image 2025-11-24 at 14 48 57_168f1da1](https://github.com/user-attachments/assets/294ca872-0d14-492c-92a6-03c213c32bcf)
+
 
 # Result
+![WhatsApp Image 2025-11-24 at 14 47 47_b185bc2f](https://github.com/user-attachments/assets/f9efd8eb-451e-4a4c-9bd5-e1d2ee2ee8bd)
+

@@ -84,13 +84,15 @@ Acting as a secondary transducer, it can be used for force, weight and pressure 
 
 
 # Circuit Diagram in software
+<img width="418" height="511" alt="image" src="https://github.com/user-attachments/assets/82108826-253a-492c-a1ac-c8982fd10be6" />
+![WhatsApp Image 2025-11-24 at 15 45 19_515295b6](https://github.com/user-attachments/assets/1688d218-6206-4763-ab84-70be33a1261a)
 
 
 
 # Output Graph / Tabulation
+![WhatsApp Image 2025-11-24 at 15 44 57_a151999e](https://github.com/user-attachments/assets/2af50404-f3a2-4f3e-b153-f7855153ad7d)
 
-
-# Sample images
 
 
 # Result
+![WhatsApp Image 2025-11-24 at 15 47 23_7b01a8d0](https://github.com/user-attachments/assets/8d2a6f30-46da-4481-a796-e4770eaa6a2e)

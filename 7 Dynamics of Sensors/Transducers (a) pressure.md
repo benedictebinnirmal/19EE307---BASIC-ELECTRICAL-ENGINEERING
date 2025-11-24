@@ -109,13 +109,16 @@ Low cost
 Effect of ambient conditions
 
 # Circuit Diagram in software
+<img width="958" height="714" alt="image" src="https://github.com/user-attachments/assets/47141908-0cb2-4dcb-b9ae-dc8ded296796" />
+<img width="934" height="728" alt="image" src="https://github.com/user-attachments/assets/f1f01f53-c63d-4f4e-ae66-1b5c5c97dec6" />
+<img width="973" height="712" alt="image" src="https://github.com/user-attachments/assets/250278ea-b396-4f2e-ba2a-f99b0c2a1709" />
 
 
 
 # Output Graph / Tabulation
-
-
-# Sample images
-
+![WhatsApp Image 2025-11-24 at 15 49 23_9e5340b6](https://github.com/user-attachments/assets/27fdc063-0efd-4b8f-9611-33268c65f23b)
+![WhatsApp Image 2025-11-24 at 15 49 48_7c916184](https://github.com/user-attachments/assets/ae4ccbd6-c4db-48d2-831d-44b192d9f358)
+![WhatsApp Image 2025-11-24 at 15 50 01_4039a379](https://github.com/user-attachments/assets/82fda7a1-948a-4889-954a-106cf13c793a)
 
 # Result
+![WhatsApp Image 2025-11-24 at 15 54 42_064cd9bc](https://github.com/user-attachments/assets/a5777c2c-83bd-4c3d-9d2d-ebe2497e549f)
